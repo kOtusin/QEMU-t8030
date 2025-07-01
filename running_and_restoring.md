@@ -25,7 +25,7 @@ QEMUAppleSilicon/build/qemu-system-aarch64 -M t8030,trustcache=iPhone11_8_iPhone
 ## Оно живое!!
 > [!NOTE]
 > Эти действия выполняются в ВМ компаньоне
-> 
+
 > [!CAUTION]
 > В данный момент USB не очень стабилен. Такие вещи, как SSH могут мешать работе.
 
