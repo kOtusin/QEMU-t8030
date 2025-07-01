@@ -1,6 +1,7 @@
 ## Запуск виртуального iPhone
 > [!NOTE]
 > Эти действия выполняются в хосте
+
 Коамнда для запуска:
 ````
 QEMUAppleSilicon/build/qemu-system-aarch64 -M t8030,trustcache=iPhone11_8_iPhone12_1_14.0_18A5351d_Restore/Firmware/038-44135-124.dmg.trustcache,ticket=root_ticket.der,sep-fw=sep-firmware.n104.RELEASE.new.img4,sep-rom=AppleSEPROM-Cebu-B1,kaslr-off=true \
